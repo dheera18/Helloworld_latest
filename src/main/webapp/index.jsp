@@ -6,7 +6,7 @@
 <title>Hello, World!</title>
 <style>
   body {
-    background-color: yellow;
+    background-color: orange;
   }
 </style>
 </head>
