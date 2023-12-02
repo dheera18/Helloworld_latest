@@ -6,13 +6,13 @@
 <title>Hello, World!</title>
 <style>
   body {
-    background-color: yellow;
+    background-color: red;
   }
 </style>
 </head>
 <body>
 <h1>Hello, World!</h1>
-<p>This is a sample "Hello, World" application for task 2</p>
+<p>This is a sample "Hello, World, This is a sample code for task2" application for task 2</p>
 </body>
 </html>
 
